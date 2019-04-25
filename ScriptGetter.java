@@ -99,7 +99,6 @@ public class ScriptGetter {
     public void scriptsToText(ArrayList<String> scripts) throws IOException {
         for (String s : scripts) {
             newUrl(s);
-            System.out.println(s);
             String fileName = "";
             Pattern name = Pattern.compile(
                     "https://gameofthronesfanon.fandom.com/wiki/(.*)_\\(Fanon\\)/Transcript");
