@@ -1,16 +1,16 @@
 Analysis Questions:
 
-1. What percentage of characters that are in the first episode a
+1. What percentage of characters that are in the first episode are also in the last episode?
+1.728% - This percentage makes a lot of sense considering the number of gory scenes and significant deaths that occur.
 
+2. What percentage of the characters in Battle of the Bastards are also in No one?
+3.210% - This result is in line with our hypothesis, that this would be one of the higher percentages. Due to the high number of characters in our matrix (405) characters, this value is in line with our prediction, since a very small percentage of characters carry through to subsequent episodes.
 
-2. 
+3. What percentage of the total characters are in Battle of the Bastards or No one?
+17.284% - This value goes to show the number of actors and actresses that are killed off or have very few lines throughout the entirety of the show. This imlies that Game of Thrones had to hire very many contracted actors and actresses to fill in scenes but that they did not often appear in more than one or two episodes.
 
-
-3. 
-
-
-4. 
-
+4. What percentage of episodes is Arya Stark (one of the main characters) in?
+% - This value was found by calculating Arya Stark's document frequency and dividing that value by the number of documents in the collection. Our finding goes to show that Arya has relevance to the story line throughout all seasons and subsequently followers of the show (like Katie) hold her dear to their hearts.
 
 5. 
 
