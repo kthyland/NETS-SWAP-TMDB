@@ -171,7 +171,7 @@ public class ScriptGetter {
         try {
             FileReader fr = new FileReader(fileName);
             BufferedReader br = new BufferedReader(fr);
-            Pattern getChar = Pattern.compile("(([A-Z])*).*");
+            Pattern getChar = Pattern.compile("((([A-Z])* *)*):");
             
             String line;
             while ((line = br.readLine()) != null)
@@ -187,30 +187,6 @@ public class ScriptGetter {
         }
         
         return characters;
-    }
-    
-    
-    public ArrayList<String> getAllCharacters() {
-        ArrayList<String> all = new ArrayList<String>();
-        ArrayList<String> episodes = getEpisodes();
-        
-        for (int i = 0; i < episodes.size(); i++) {
-            try {
-                Set<String> c = getCharactersInEpisode(episodes.get(i));
-                ArrayList<String> characters = new ArrayList<String>(c);
-                for (int j = 0; j < characters.size(); j++) {
-                    if (!all.contains(characters.get(j))) {
-                        all.add(characters.get(j));
-                    }
-                }
-                
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            }
-            
-        }
-        all.remove(0);
-        return all;
     }
 
 }
