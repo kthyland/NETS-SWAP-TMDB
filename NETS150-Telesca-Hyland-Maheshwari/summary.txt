@@ -11,3 +11,5 @@ Web Scraping and Document Compilation: Katie Hyland
 Boolean Matrix and Querying: Anjali Maheshwari
 
 Cosine Similarity Output and Visualization: Ryan Telesca
+
+Analysis Questions: Everyone
