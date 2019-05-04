@@ -12,7 +12,8 @@ Analysis Questions:
 4. What percentage of episodes is Arya Stark (one of the main characters) in?
 67.742% - This value was found by calculating Arya Stark's document frequency and dividing that value by the number of documents in the collection. Our finding goes to show that Arya has relevance to the story line throughout all seasons and subsequently followers of the show (like Katie) hold her dear to their hearts.
 
-5. 
+5. What percentage of episodes were Cersei and Jaime in together?
+64.516% - This was a value of interest since Cersei and Jaime are siblings. Due to the low character carryover between episodes, we wanted to determine the frequency with which two main characters who appear in many scenes together are in the same episodes.
 
-
-6. 
+6. What percentage of episodes were Syrio and Tyrion in together?
+10.753% - We were expecting a low value here because Syrio dies very early on in the series. Tyrion lives through to the end so there should not have been much overlap between the two characters, as proven by the percentage.
