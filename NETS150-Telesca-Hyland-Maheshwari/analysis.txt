@@ -10,7 +10,7 @@ Analysis Questions:
 17.284% - This value goes to show the number of actors and actresses that are killed off or have very few lines throughout the entirety of the show. This imlies that Game of Thrones had to hire very many contracted actors and actresses to fill in scenes but that they did not often appear in more than one or two episodes.
 
 4. What percentage of episodes is Arya Stark (one of the main characters) in?
-% - This value was found by calculating Arya Stark's document frequency and dividing that value by the number of documents in the collection. Our finding goes to show that Arya has relevance to the story line throughout all seasons and subsequently followers of the show (like Katie) hold her dear to their hearts.
+67.742% - This value was found by calculating Arya Stark's document frequency and dividing that value by the number of documents in the collection. Our finding goes to show that Arya has relevance to the story line throughout all seasons and subsequently followers of the show (like Katie) hold her dear to their hearts.
 
 5. 
 
